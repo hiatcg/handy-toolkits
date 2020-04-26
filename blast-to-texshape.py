@@ -11,6 +11,7 @@
 
 # 1. Mapping the Sample ID to NCBI Reference Sequence ID
 
+import os
 import re
 import sys
 import pprint
